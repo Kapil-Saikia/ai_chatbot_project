@@ -42,16 +42,29 @@ A simple yet powerful AI-powered chatbot built with **Flask** and **HuggingFace 
 
 ## 🚀 Getting Started
 
-> To clone and run this project locally, make sure you have Python 3 and Git installed.  
-> Then follow the standard setup steps listed in the documentation.
-### 1. Clone the repo
+To clone and run this project locally:
 
 ```bash
+# 1. Clone the repo
 git clone https://github.com/Kapil-Saikia/ai_chatbot_project.git
 cd ai_chatbot_project
 
+# 2. Create a virtual environment
+python -m venv venv
 
----
+# 3. Activate the environment
+# On Windows:
+venv\Scripts\activate
+# On macOS/Linux:
+source venv/bin/activate
+
+# 4. Install dependencies
+pip install -r requirements.txt
+
+# 5. Run the chatbot
+python app.py
+
+
 ## 🙋‍♂️ Author
 
 **Kapil Saikia**  
