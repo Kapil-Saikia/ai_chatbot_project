@@ -64,6 +64,10 @@ pip install -r requirements.txt
 # 5. Run the chatbot
 python app.py
 
+```
+
+
+---
 
 ## 🙋‍♂️ Author
 
