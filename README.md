@@ -50,8 +50,8 @@ A simple yet powerful AI-powered chatbot built with **Flask** and **HuggingFace 
 git clone https://github.com/Kapil-Saikia/ai_chatbot_project.git
 cd ai_chatbot_project
 
----
 
+---
 ## 🙋‍♂️ Author
 
 **Kapil Saikia**  
